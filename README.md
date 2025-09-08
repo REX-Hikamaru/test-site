@@ -1,7 +1,7 @@
 
-  # Furniture Introduction Website
+  # Puzzle Game Website
 
-  This is a code bundle for Furniture Introduction Website. The original project is available at https://www.figma.com/design/mLp7smSDjkCe1VyTHYCLUI/Furniture-Introduction-Website.
+  This is a code bundle for Puzzle Game Website. The original project is available at https://www.figma.com/design/JZaIMlqI7WF6srwMcC3C34/Puzzle-Game-Website.
 
   ## Running the code
 
